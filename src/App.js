@@ -1,5 +1,6 @@
 import React from "react";
 import NavMenu from "./components/NavMenu";
+import HeroSections from "./components/HeroSections";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -29,6 +30,7 @@ export default function App() {
             <Contact />
           </Route>
         </Switch>
+        <HeroSections />
       </Router>
     </>
   );
