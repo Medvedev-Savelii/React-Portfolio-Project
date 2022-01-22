@@ -13,10 +13,6 @@ export default function App() {
       <Router>
         <NavMenu />
         <Switch>
-          <Route exact path="/">
-            {" "}
-            <Home />
-          </Route>
           <Route exact path="/about">
             {" "}
             <About />
@@ -29,8 +25,11 @@ export default function App() {
             {" "}
             <Contact />
           </Route>
+          <Route exact path="/">
+            {" "}
+            <Home />
+          </Route>
         </Switch>
-        <HeroSections />
       </Router>
     </>
   );
