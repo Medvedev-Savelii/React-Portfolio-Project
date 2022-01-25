@@ -13,6 +13,7 @@ const ProjectItemStyle = styled.div`
     border-radius: 3px solid var(--gray-2);
     img {
       height: 100%;
+      border-radius: 12px;
     }
   }
   .projectItem__info {
