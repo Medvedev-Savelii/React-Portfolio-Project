@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Medvedev-Savelii/React-Portfolio-Project/static/css/main.d44e56d2.css",
+    "main.js": "/Medvedev-Savelii/React-Portfolio-Project/static/js/main.ff4bddaf.js",
+    "static/media/cavinimg.jpg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/utracker.jpg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
+    "static/media/greenctg.jpg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/greenctg.e51b3bbd67082da93f16.jpg",
+    "static/media/Montserrat-Bold.ttf": "/Medvedev-Savelii/React-Portfolio-Project/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/Medvedev-Savelii/React-Portfolio-Project/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/cointracker.jpg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/map.jpg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/map.8536682072440484322a.jpg",
+    "static/media/about-page-img.png": "/Medvedev-Savelii/React-Portfolio-Project/static/media/about-page-img.9c8789a0c66a86d475ce.png",
+    "static/media/hero.png": "/Medvedev-Savelii/React-Portfolio-Project/static/media/hero.67448392087e789e45d7.png",
+    "static/media/about-sec-img.png": "/Medvedev-Savelii/React-Portfolio-Project/static/media/about-sec-img.dc8698376cd0ff66f5d3.png",
+    "static/media/RobotoMono-Regular.ttf": "/Medvedev-Savelii/React-Portfolio-Project/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectImg.png": "/Medvedev-Savelii/React-Portfolio-Project/static/media/projectImg.771236e1a97e2201a189.png",
+    "static/media/Equalize.ttf": "/Medvedev-Savelii/React-Portfolio-Project/static/media/Equalize.2501e49ac949a3e74d4b.ttf",
+    "index.html": "/Medvedev-Savelii/React-Portfolio-Project/index.html",
+    "static/media/scroll-down-arrow.svg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
+    "static/media/social-media-arrow.svg": "/Medvedev-Savelii/React-Portfolio-Project/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
+    "main.d44e56d2.css.map": "/Medvedev-Savelii/React-Portfolio-Project/static/css/main.d44e56d2.css.map",
+    "main.ff4bddaf.js.map": "/Medvedev-Savelii/React-Portfolio-Project/static/js/main.ff4bddaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44e56d2.css",
+    "static/js/main.ff4bddaf.js"
+  ]
+}
